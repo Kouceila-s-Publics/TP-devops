@@ -7,6 +7,7 @@ public static void main(String[] args) {
         
     }compterA10();
     System.out.println("The average of 5 and 10 is: "+avg(5,10));
+    sayMyName("heisenburg");
 }
 public static double avg(int a, int b){
     return (a+b)/2.0;
@@ -24,5 +25,11 @@ public static boolean isWorking() {
         return false;
     }
     
+}
+public static void  sayMyName(String name) {
+    System.out.println(name);
+    if(name.equals("heisenburg")){
+        System.out.println("You're gdr");
+}
 }
 }

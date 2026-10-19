@@ -1,0 +1,11 @@
+EXO 1
+
+
+PS C:\Users\kouce\OneDrive\Documents\dev ops\TP-devops> git init
+Initialized empty Git repository in C:/Users/kouce/OneDrive/Documents/dev ops/TP-devops/.git/
+PS C:\Users\kouce\OneDrive\Documents\dev ops\TP-devops> git add .
+PS C:\Users\kouce\OneDrive\Documents\dev ops\TP-devops> git commit -m "init"
+[master (root-commit) 764e76f] init
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 .gitignore
+ create mode 100644 README.md
